@@ -1,0 +1,17 @@
+Version Changes
+=====================================================
+
+0.0.1 (04/30/2022)
+---------------------------------
+- First Release
+- MassBan
+- In Development
+
+1.0.3 (05/8/2022)
+---------------------------------
+- Second Release
+- MassBan
+- Delete Roles
+- Delete Channels
+- MassKick
+- In Development
